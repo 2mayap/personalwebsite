@@ -47,13 +47,13 @@ header p {
 footer {
     text-align: center;
     padding: 10px;
-    background-color: #24163e;
+    background-color: #333;
     color: #fff;
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
-    position: fixed;
-    bottom: 0;
+
     width: 100%;
+    position: relative; 
 }
 
 
@@ -70,13 +70,6 @@ footer {
         margin: 10px;
     }
     footer {
-        text-align: center;
-        padding: 10px;
-        background-color: #333;
-        color: #fff;
-        border-bottom-left-radius: 5px;
-        border-bottom-right-radius: 5px;
-        width: 100%;
         position: relative;
     }
 }
