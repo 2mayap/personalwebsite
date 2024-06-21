@@ -44,7 +44,7 @@ header p {
     padding: 20px;
 }
 
-/*footer {
+footer {
     text-align: center;
     padding: 10px;
     background-color: #24163e;
@@ -55,7 +55,7 @@ header p {
     bottom: 0;
     width: 100%;
 }
-*/
+
 
 /* Responsive styles */
 @media (max-width: 600px) {
